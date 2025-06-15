@@ -1,4 +1,4 @@
-<p align="left">
+<p align="middle">
   <img src="https://api.boot.dev/v1/users/public/f24d6d43-c922-4f88-b74e-da44c4e74c5a/thumbnail" >
 </p>
 <!--

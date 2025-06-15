@@ -1,5 +1,6 @@
-(https://www.linkedin.com/in/davidlashockjr/)
-
+<p align="left">
+  <img src="https://api.boot.dev/v1/users/public/f24d6d43-c922-4f88-b74e-da44c4e74c5a/thumbnail" >
+</p>
 <!--
 **dlashock/dlashock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

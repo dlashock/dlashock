@@ -6,18 +6,18 @@
 
 ## 🚀 About Me
 
-I'm an IT Director actively transitioning into software engineering and Site Reliability Engineering (SRE). Currently deepening my programming skills through hands-on projects and structured learning, with a focus on building reliable, scalable systems.
+I'm an IT Director passionate about expanding my technical skills in software engineering and Site Reliability Engineering. I believe in continuous learning and enjoy building systems that solve real problems.
 
 ## 🛠️ Tech Stack & Skills
 
 - **Languages:** Go, Python, JavaScript
 - **Infrastructure:** Docker, Kubernetes, Prometheus/Grafana
 - **Platforms:** Unraid, Linux, Home Lab Infrastructure
-- **Learning:** Full-stack development, SRE practices, System Architecture
+- **Focus Areas:** Full-stack development, SRE practices, System Architecture
 
-## 📚 Current Learning Path
+## 📚 Continuous Learning
 
-I'm following a structured curriculum through [Boot.dev](https://boot.dev) while building real-world projects. My focus areas include:
+I'm strengthening my programming fundamentals through [Boot.dev](https://boot.dev) while building practical projects. My current interests include:
 - Backend development with Go and Python
 - Container orchestration and monitoring
 - Infrastructure as Code and automation
@@ -26,7 +26,7 @@ I'm following a structured curriculum through [Boot.dev](https://boot.dev) while
 ## 🔨 Featured Projects
 
 ### 🏠 **Home Lab Infrastructure**
-Production home lab running 29+ containerized services on Dell PowerEdge hardware. Implementing SRE practices including monitoring (Prometheus/Grafana), automation, and reliability engineering.
+Production home lab running 29+ containerized services on Dell PowerEdge hardware. Implementing SRE best practices including monitoring (Prometheus/Grafana), automation, and reliability engineering.
 
 ### 🎮 **Pokédex CLI** (Go)
 Interactive command-line application featuring intelligent caching, concurrent operations, and clean architecture patterns. Integrates with PokéAPI for real-time data.
@@ -37,14 +37,14 @@ Gemini-powered development assistant with sandboxed code execution, file managem
 ### 🕸️ **Static Site Generator** (Python)
 Markdown-to-HTML converter with full CommonMark support, creating complete static websites from markdown content.
 
-## 🎯 Goals
+## 🎯 Current Focus
 
-- Transition from IT management to hands-on SRE/Software Engineering role
-- Build production-grade systems with real-world impact
-- Contribute to open-source projects
-- Master cloud-native technologies and DevOps practices
+- Building production-grade systems for personal projects
+- Deepening understanding of cloud-native technologies
+- Contributing to open-source projects
+- Exploring DevOps and SRE methodologies
 
-## 📈 Progress
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dlashock&show_icons=true&theme=dark" alt="GitHub Stats" />
@@ -52,7 +52,7 @@ Markdown-to-HTML converter with full CommonMark support, creating complete stati
 
 ## 🤝 Let's Connect
 
-I'm always interested in collaborating on projects or discussing SRE/DevOps practices. Feel free to reach out if you want to talk about infrastructure, reliability engineering, or software development!
+Always interested in collaborating on interesting projects or discussing infrastructure, reliability engineering, and software development best practices!
 
 ---
 

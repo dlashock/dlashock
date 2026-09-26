@@ -6,27 +6,31 @@
 
 ## 🚀 About Me
 
-I'm an IT Director passionate about expanding my technical skills in software engineering and Site Reliability Engineering. I believe in continuous learning and enjoy building systems that solve real problems.
+I'm an IT professional with 14+ years of experience leading IT operations, systems administration, and identity/endpoint management. I currently lead the IT department for a private school, where I own everything from day-to-day support to infrastructure projects and process automation. I believe in continuous learning and enjoy building systems that solve real problems.
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Go, Python, JavaScript
-- **Infrastructure:** Docker, Kubernetes, Prometheus/Grafana
-- **Platforms:** Unraid, Linux, Home Lab Infrastructure
-- **Focus Areas:** Full-stack development, SRE practices, System Architecture
+- **Languages:** Python, PowerShell, Go, JavaScript
+- **Identity & SaaS:** Google Workspace, Microsoft 365, Entra ID/Azure AD, SSO/MFA
+- **Endpoint & MDM:** SCCM/MECM, Microsoft Intune, Mosyle
+- **Infrastructure:** Docker, Prometheus/Grafana, Linux, Unraid, Home Lab Infrastructure
+- **Focus Areas:** IT systems administration, automation, identity and access management
 
 ## 📚 Continuous Learning
 
 I'm strengthening my programming fundamentals through [Boot.dev](https://boot.dev) while building practical projects. My current interests include:
-- Backend development with Go and Python
-- Container orchestration and monitoring
-- Infrastructure as Code and automation
-- Building production-ready applications
+- Automation and scripting with Python and PowerShell
+- AI-assisted development and workflow automation
+- Container orchestration and self-hosted infrastructure
+- Building tools that solve real, everyday IT problems
 
 ## 🔨 Featured Projects
 
+### 🖥️ **GAM Admin Tool** (Python)
+GUI-based application that wraps Google Apps Manager (GAM) to streamline Google Workspace administration, automating multi-step command workflows and enabling non-technical staff to run common admin tasks.
+
 ### 🏠 **Home Lab Infrastructure**
-Production home lab running 29+ containerized services on Dell PowerEdge hardware. Implementing SRE best practices including monitoring (Prometheus/Grafana), automation, and reliability engineering.
+Home lab running 29+ containerized services on Dell PowerEdge hardware, with monitoring (Prometheus/Grafana) and automation for reliability.
 
 ### 🎮 **Pokédex CLI** (Go)
 Interactive command-line application featuring intelligent caching, concurrent operations, and clean architecture patterns. Integrates with PokéAPI for real-time data.
@@ -39,10 +43,10 @@ Markdown-to-HTML converter with full CommonMark support, creating complete stati
 
 ## 🎯 Current Focus
 
-- Building production-grade systems for personal projects
-- Deepening understanding of cloud-native technologies
-- Contributing to open-source projects
-- Exploring DevOps and SRE methodologies
+- Leading IT operations and infrastructure projects end to end
+- Automating identity, provisioning, and endpoint workflows
+- Building practical tools that solve real IT problems
+- Growing my programming fundamentals through hands-on projects
 
 ## 📈 GitHub Activity
 
@@ -52,7 +56,7 @@ Markdown-to-HTML converter with full CommonMark support, creating complete stati
 
 ## 🤝 Let's Connect
 
-Always interested in collaborating on interesting projects or discussing infrastructure, reliability engineering, and software development best practices!
+Always interested in collaborating on interesting projects or discussing IT systems, automation, and identity management!
 
 ---
 

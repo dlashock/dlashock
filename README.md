@@ -6,47 +6,44 @@
 
 ## 🚀 About Me
 
-I'm an IT professional with 14+ years of experience leading IT operations, systems administration, and identity/endpoint management. I currently lead the IT department for a private school, where I own everything from day-to-day support to infrastructure projects and process automation. I believe in continuous learning and enjoy building systems that solve real problems.
+I'm a systems administrator and IT leader with 14+ years of experience across identity, endpoint management, networking, and infrastructure. I lead IT for a private school, supporting faculty, staff, and students, and I run a production-style home lab on the side. I use AI tools to write, test, and deploy scripts that solve real operational problems, and I review everything before it runs.
 
 ## 🛠️ Tech Stack & Skills
 
-- **Languages:** Python, PowerShell, Go, JavaScript
-- **Identity & SaaS:** Google Workspace, Microsoft 365, Entra ID/Azure AD, SSO/MFA
+- **Identity & SaaS:** Okta (OIDC SSO, custom domain, MCP integration), Google Workspace, Microsoft 365, Entra ID, Active Directory, MFA
 - **Endpoint & MDM:** SCCM/MECM, Microsoft Intune, Mosyle
-- **Infrastructure:** Docker, Prometheus/Grafana, Linux, Unraid, Home Lab Infrastructure
-- **Focus Areas:** IT systems administration, automation, identity and access management
-
-## 📚 Continuous Learning
-
-I'm strengthening my programming fundamentals through [Boot.dev](https://boot.dev) while building practical projects. My current interests include:
-- Automation and scripting with Python and PowerShell
-- AI-assisted development and workflow automation
-- Container orchestration and self-hosted infrastructure
-- Building tools that solve real, everyday IT problems
+- **Infrastructure:** Linux, Unraid, Docker, Nginx reverse proxy, Pi-hole, UniFi, Extreme Networks
+- **Monitoring:** Prometheus, Grafana, Alertmanager
+- **Automation:** PowerShell, Python, GAM7 (AI-assisted authoring with human review and testing)
+- **Also working with:** Go, JavaScript, Terraform
 
 ## 🔨 Featured Projects
 
 ### 🖥️ **GAM Admin Tool** (Python)
-GUI-based application that wraps Google Apps Manager (GAM) to streamline Google Workspace administration, automating multi-step command workflows and enabling non-technical staff to run common admin tasks.
+GUI application that wraps Google Apps Manager (GAM) to streamline Google Workspace administration, turning multi-step command workflows into repeatable tasks that non-technical staff can run.
 
-### 🏠 **Home Lab Infrastructure**
-Home lab running 29+ containerized services on Dell PowerEdge hardware, with monitoring (Prometheus/Grafana) and automation for reliability.
-
-### 🎮 **Pokédex CLI** (Go)
-Interactive command-line application featuring intelligent caching, concurrent operations, and clean architecture patterns. Integrates with PokéAPI for real-time data.
+### 🏠 **Home Lab**
+Self-hosted environment of 30+ containerized services on enterprise server hardware, with Okta SSO, an Okta MCP server for AI-assisted identity queries, and a Prometheus/Grafana/Alertmanager monitoring stack with email and SMS alerting.
 
 ### 🤖 **AI Code Assistant** (Python)
-Gemini-powered development assistant with sandboxed code execution, file management, and intelligent code analysis capabilities.
+Gemini-powered development assistant with sandboxed code execution, file management, and code analysis.
+
+### 🎮 **Pokédex CLI** (Go)
+Command-line application with caching and concurrent API calls against PokéAPI.
 
 ### 🕸️ **Static Site Generator** (Python)
-Markdown-to-HTML converter with full CommonMark support, creating complete static websites from markdown content.
+Markdown-to-HTML converter that builds complete static sites.
 
-## 🎯 Current Focus
+## 🎯 What I Work On
 
-- Leading IT operations and infrastructure projects end to end
-- Automating identity, provisioning, and endpoint workflows
-- Building practical tools that solve real IT problems
-- Growing my programming fundamentals through hands-on projects
+- Identity lifecycle and SSO across Google, Microsoft, and Okta
+- Endpoint deployment and management for Windows, Mac, iPad, and Chromebook
+- Scripted automation for bulk account operations, license assignment, and password policy
+- Network, AV, and security operations, including phishing response and email authentication (SPF/DKIM/DMARC)
+
+## 📚 Learning
+
+Ongoing coursework through [Boot.dev](https://boot.dev), plus hands-on projects in containers, cloud, and automation.
 
 ## 📈 GitHub Activity
 
@@ -56,8 +53,4 @@ Markdown-to-HTML converter with full CommonMark support, creating complete stati
 
 ## 🤝 Let's Connect
 
-Always interested in collaborating on interesting projects or discussing IT systems, automation, and identity management!
-
----
-
-*"The best way to learn is by building real things that solve real problems."*
+Always interested in discussing IT systems, identity management, and automation.
